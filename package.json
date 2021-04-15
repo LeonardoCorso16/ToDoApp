@@ -1,0 +1,25 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardoCorso16/ToDoApiApp.git"
+  },
+  "author": "LeoCorso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonardoCorso16/ToDoApiApp/issues"
+  },
+  "homepage": "https://github.com/LeonardoCorso16/ToDoApiApp#readme",
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
