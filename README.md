@@ -30,14 +30,19 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Os dados necessários para cada uma das entidades são:
 
-* Usuários:    * Tarefas:
-
-  id            id
- nome           titulo   
- email          descrição
- senha          status
-                data de criação  
-                id do usuário que e dono
+* Usuários:  
+ id      
+ nome        
+ email          
+ senha  
+ 
+* Tarefas:
+ id
+ titulo   
+ descrição          
+ status
+ data de criação  
+ id do usuário que e dono
                    
                    
 ## 🚀 Instalando as dependências do projeto
@@ -82,10 +87,9 @@ Para executar o projeto
 ```
 
 📫 Rotas Possíveis 
-    ```
-    GET; POST;
 
-    PUT; DELETE;
+    ```
+    GET; POST; PUT; DELETE;
     ```
 
 
