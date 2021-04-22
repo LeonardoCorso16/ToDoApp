@@ -96,5 +96,3 @@ Para executar o projeto
 ## 📝 Autor
 
 Leonardo Corso
-
-[⬆ Voltar ao topo](#Projeto ToDoAPI)<br>
