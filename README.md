@@ -6,13 +6,13 @@ Projeto feito durando o módulo 3 da Resilia educação, criação de uma API, p
 
 As tecnologias utiliazadas para o projeto:
 
-* Node.js
-* NPM
-* Cors
 * Javascript
+* NPM
+* Express.js
+* Node-JS
 * Chalk
 * Sqlite3
-* Express.js
+* Cors
 
 ## 💻 Requisitos
 
@@ -31,12 +31,14 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Os dados necessários para cada uma das entidades são:
 
 * Usuários:  
+ 
  id      
  nome        
  email          
  senha  
  
 * Tarefas:
+ 
  id
  titulo   
  descrição          
